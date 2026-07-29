@@ -122,7 +122,10 @@ The application predicts:
 
 ## 📸 Screenshots
 
-(Add screenshots after deployment.)
+<img width="959" height="476" alt="image" src="https://github.com/user-attachments/assets/d852b6ed-e73e-4ca3-b076-f4a8b1638955" />
+<img width="1459" height="952" alt="image" src="https://github.com/user-attachments/assets/07f0a378-2b53-426e-93c0-15fdbe4fbbaa" />
+
+
 
 ---
 
