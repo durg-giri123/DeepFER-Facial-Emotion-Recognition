@@ -5,8 +5,7 @@ A real-time Facial Emotion Recognition web application built using **TensorFlow*
 ---
 
 ## 🚀 Live Demo
-
-> Coming Soon (Hugging Face Spaces)
+https://deepfer-facial-emotion-recognition.onrender.com/
 
 ---
 
