@@ -137,7 +137,7 @@ B.Tech CSE | AI & ML Enthusiast
 
 GitHub: https://github.com/durg-giri123
 
-LinkedIn: (Add your profile link)
+LinkedIn: https://www.linkedin.com/in/durgeshgiri
 
 ---
 
